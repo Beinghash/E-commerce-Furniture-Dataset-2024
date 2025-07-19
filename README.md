@@ -1,9 +1,5 @@
-# 🪑 E-commerce Furniture Dataset Analysis (2024)
+#  E-commerce Furniture Dataset Analysis (2024)
 
-![project-banner](https://img.shields.io/badge/Project-Type-Data%20Analysis-blue)
-![language](https://img.shields.io/badge/Python-3.9%2B-green)
-![status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![license](https://img.shields.io/badge/License-MIT-lightgrey)
 
 This project explores and analyzes a dataset of furniture products scraped from AliExpress.  
 The objective is to **predict the number of units sold** based on product attributes like price, title, and shipping tags using regression models.
@@ -62,5 +58,28 @@ This was likely due to lack of deep features (like ratings, reviews) and skew in
 
 ---
 
-## 📁 Project Structure
+## 🧠 Key Learnings
+
+- Cleaning and preparing real-world e-commerce data
+- Applying TF-IDF for text features
+- Building regression models and evaluating with R²
+- Recognizing the importance of strong features in predictive modeling
+
+---
+
+## 🚀 Future Improvements
+
+- Switch to a **classification approach** (`sold > 0` or not)
+- Add features like `category`, `rating`, `number of reviews`
+- Apply **log-transformation** to handle skewed sales data
+- Try advanced models like `XGBoost`, `LightGBM`
+
+
+---
+
+## 🙋‍♂️ Author
+
+Made by Hashir khan   
+Feel free to ⭐ the repo if you found it helpful!
+
 
