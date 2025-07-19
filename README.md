@@ -4,7 +4,7 @@
 This project explores and analyzes a dataset of furniture products scraped from AliExpress.  
 The objective is to **predict the number of units sold** based on product attributes like price, title, and shipping tags using regression models.
 
-This project marks the beginning of our ongoing **Data Analysis series**, with each subsequent project aimed at enhancing analytical thinking, modeling techniques, and business insight
+This project marks the beginning of our ongoing **"Data Analysis series"**, with each subsequent project aimed at enhancing analytical thinking, modeling techniques, and business insight
 
 ---
 
